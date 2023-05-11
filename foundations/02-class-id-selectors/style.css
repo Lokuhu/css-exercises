@@ -1,0 +1,20 @@
+/*style.css*/
+
+.bunny{
+    background-color: pink;
+    font-family: Verdana,"Dejavu Sans", sans-serif;
+}
+
+.fat{
+    font-size: 24px;
+}
+
+#batch{
+    color: blue;
+    font-size: 36px;
+}
+
+#catch{
+    background-color: rgb(110, 255, 110);
+    font-weight: bold;
+}
